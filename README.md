@@ -1,4 +1,4 @@
-This repository contains written work and programming projects I have completed during my time at the University of Warwick.
+This repository contains written work of mine from my time at the University of Warwick. In the near future I will also be adding programming projects I have completed
 
 Contents
 
