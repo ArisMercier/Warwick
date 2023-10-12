@@ -2,3 +2,5 @@ This repository contains written work and programming projects I have completed 
 
 Contents
 (1): Second-year essay on Gauss' Theorema Egregium
+
+Last Updated: Friday 13 October 2023
