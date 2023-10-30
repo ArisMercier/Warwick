@@ -4,4 +4,4 @@ Contents:
 1. Data Mining and Machine Learning report on a research article.
 2. Second-year essay on Gauss' Theorema Egregium.
 
-Last Updated: Saturday 28 October 2023
+Last Updated: Monday 30 October 2023
